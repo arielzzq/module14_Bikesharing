@@ -12,11 +12,11 @@ The purpose of this analysis is to show the user habit, and operating situation 
 ![TD](/Images/TD.png)
 ![TD_by_Customer](/Images/TD_by_Customer.png)
 ![TD_by_Gender](/Images/TD_by_Gender.png)
-![Trips by Weekday for Each Hour](/Images/Trips by Weekday for Each Hour.png)
-![Trips by Weekday for Each Hour_Female](/Images/Trips by Weekday for Each Hour_Female.png)
-![Customer_Number](/Images/Customer_Number.png)
-![Customer_Number](/Images/Customer_Number.png)
-![Customer_Number](/Images/Customer_Number.png)
+![Trips_by_Weekday_for_Each_Hour](/Images/Trips_by_Weekday_for_Each_Hour.png)
+![Trips_by_Weekday_for_Each_Hour_Female](/Images/Trips_by_Weekday_for_Each_Hour_Female.png)
+![Trips_by_Weekday_for_Each_Hour_Male](/Images/Trips_by_Weekday_for_Each_Hour_Male.png)
+![User_Trips_by_Gender_by_Weekday](/Images/User_Trips_by_Gender_by_Weekday.png)
+
  - The number of temperature data collected in was 1700 and 1517 in June and December respectively. 183 more data were collected in June.
  - The mean temperature in June was 74.9 degree and was 71.0 degree in December. The 50% quartile temperatures were 75 degree and 71 degree respectively. 
  - The standard deviation of temperature in June and December were 3.26 and 3.75 respectively.
