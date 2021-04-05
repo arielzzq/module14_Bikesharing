@@ -5,8 +5,8 @@ The purpose of this analysis is to show the user habit, and operating situation 
 
 ## Results
 [link to dashboard](https://public.tableau.com/profile/ziqin.zhu#!/vizhome/Challenge_16174206363420/Story1?publish=yes)
-![Dec_data](/Resources/Dec_data.png)
 
+![Number_of_Rides](/Images/Number_of_Rides.png)
  - The number of temperature data collected in was 1700 and 1517 in June and December respectively. 183 more data were collected in June.
  - The mean temperature in June was 74.9 degree and was 71.0 degree in December. The 50% quartile temperatures were 75 degree and 71 degree respectively. 
  - The standard deviation of temperature in June and December were 3.26 and 3.75 respectively.
